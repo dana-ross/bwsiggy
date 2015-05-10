@@ -1,0 +1,114 @@
+		    Underground Edge Press presents...
+       --------------------------------------------------------------------
+       : BWSIGGY.EXE - Signature Utility for Blue Wave offline mail reader:
+       --------------------------------------------------------------------
+
+CODED BY: Compton Q. Groundhog (Dr. Watson)
+CODED IN: Turbo C v2.01
+FILENAME: BWSIGGY.EXE
+VERSION : 1.0 (Release)
+SOURCE  : Unreleased
+DOCS BY : Compton Q. Groundhog
+
+ -=-=-=-=-=-=-=-=   This Program is dedicated to my good friend "Siggy",
+ :  Dedication  :   who taught me that everything in the world tastes like
+ -=-=-=-=-=-=-=-=   chicken...and who is there whenever I need someone to
+		    talk to.
+
+		    It is also dedicated to Mrs. Tolman, wherever she is.
+		    She was my 2nd grade teacher and introduced me to the
+		    world of computers when she showed the class an ASCII
+		    drawing of R2D2 that she made on her APPLE II.  That was
+		    ten years ago (I'm getting old!!), and I'm going to
+		    college next year as a pre-comp. sci. major.  She
+		    helped shape my life, and I thank her.
+
+ -=-=-=-=-=-=-=-=   KMFDM - "A Drug Against War" (CD-Single)
+ :   Musical    :   MY LIFE WITH THE THRILL KILL KULT - "Confessions of a
+ : Inspiration  :       Knife" (CD)
+ -=-=-=-=-=-=-=-=   MEAT LOAF - "Bat Out of Hell II" (CD)
+		    NEW ORDER - "Power, Corruption & Lies" (CD)
+		    DEEP PURPLE - "Deepest Purple" (CASS)
+		    DEE LITE - "Infinity Within" (CD)
+
+ -=-=-=-=-=-=-=-=   This program is far from what I want it to be, but it's
+ :     Notes    :   functional and that's what counts.  No nifty ANSI
+ -=-=-=-=-=-=-=-=   screens or anything.  No bells and whistles.  It just
+		    does its job quickly and painlessly.
+
+ -=-=-=-=-=-=-=-=   Underground Edge Press, Compton Q. Groundhog, and all
+ :  Disclaimer  :   entities (personal or corporate) involved in the
+ -=-=-=-=-=-=-=-=   production and distribution of this program and its
+		    associated files, assume no responsibility for any 
+		    damages to or loss of hardware, software, or data
+		    resulting from the ownership/use of this product.
+
+ -=-=-=-=-=-=-=-=
+ :   How 2 Use  :   1) UnZIP the BWSIGGY files into your Blue Wave directory
+ -=-=-=-=-=-=-=-=   2) Use a text editor to create BWSIGGY.SIG
+		    3) Run Blue Wave and go to the (S)etup Parameters menu  
+		    4) Under "Directories", change the Spell Checker Command
+		       to:
+
+		       <Blue Wave Path>\BWSIGGY.EXE @F
+
+		    Now, whenever you post/reply and want to use a signature,
+		    select (C)heck Spelling at the Save prompt, then (S)ave.
+
+		  -*-*-* OR *-*-*-
+
+		    4) Under "Directories", change the Editor Command to:
+
+		       <Blue Wave Path>\BWEDIT.BAT <Editor> @F
+		    Substitute your Blue Wave Directory for <Blue Wave Path>
+		    and the full path to your editor for <Editor>
+
+		    For example, if Blue Wave and BWSIGGY are in C:\BW and
+		    you use the MS-DOS editor, you'd use:
+
+			C:\BW\BWSIGGY.BAT C:\DOS\EDIT.COM @F
+
+ -=-=-=-=-=-=-=-=   1) Support for multiple signature files
+ :   Proposed   :   2) Some bells and whistles
+ :   Changes    :      - ANSI screens?
+ -=-=-=-=-=-=-=-=   
+ 
+ -=-=-=-=-=-=-=-=   v.5B = Pre-Release Beta (Limited Distribution)
+ :   Version    :        - Released 11/19/94
+ :   History    :   v.6A = Internal Alpha (Internal Distribution)
+ -=-=-=-=-=-=-=-=          - Corrected a few bugs
+			   - Compiler options optimized
+		    v.65B= Pre-Release Beta (Limited Distribution)
+			 - Released 11/21/94
+			   - Added ERROR #1: No parameters specified
+			   - Code smoothed out
+			   - Docs updated
+		    v.7A = Internal Alpha (Internal Distribution)
+			   - Minor changes in code for efficiency
+			   - Support for blank lines
+			   - Pauses added
+			   - Wrote BWSIGGY.BAT to run editor.
+		    v1.0 = Release Version 1.0
+			 - Released 12/1/94
+			   - Minor bug fixes
+
+ -=-=-=-=-=-=-=-=   If you need to contact UEP or Compton Q. Groundhog,
+ :How 2 Contact :   call Kooler Than Jesus at 708/439-5769.
+ -=-=-=-=-=-=-=-=   Send E-Mail to "Dr. Watson".  Messages will be forwarded
+		    to the appropriate entities.
+
+		    or, send Internet email to drwatson@ripco.com
+
+ -=-=-=-=-=-=-=-=   Greets to:
+ :   !Greets!   :     Siggy - where would I be without you?
+ -=-=-=-=-=-=-=-=     Mr. Chaos - Hola Amigo!
+		      The flying happy fish!
+		      Paul J. Perry, author of "Crash Course in C"
+
+ -=-=-=-=-=-=-=-=   BWSIGGY is released under a FreedomWare license.  This
+ : FreedomWare  :   means that you are licensed to use BWSIGGY for a 14 day
+ :   Concept    :   trial period.  If you continue using it after this
+ -=-=-=-=-=-=-=-=   period, you are asked to exercise your right to free
+		    speech by writing a text file about any topic and
+		    uploading it to as many BBSs as you can.  Better yet,
+		    contact Dr. Watson and have it released through UEP!!
